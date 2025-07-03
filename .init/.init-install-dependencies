@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/globaltune-explorer-101522-861cf7d9/musemap_frontend"
+}
